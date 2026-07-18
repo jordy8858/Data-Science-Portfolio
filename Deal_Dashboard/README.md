@@ -18,8 +18,5 @@ Efficiency Metrics: Analyzed the correlation between sales effort (touchpoints p
 
 Operational Intelligence: Provided a blueprint for dealership management to identify high-potential traffic and optimize BDC/Internet Sales workflows.
 
-📈 Visualizations
-(You can upload the PNG files of your bar chart and scatter plot here)
-
 🚀 Why This Matters
 As an automotive professional, I know that success isn't just about the number of calls made—it's about the strategic application of effort. This project demonstrates my ability to take raw CRM interaction data and translate it into clear, actionable business intelligence that improves the bottom line.
